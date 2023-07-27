@@ -29,7 +29,7 @@ docker ps
 ```
 
 ### Enter the container
-````Bash
+```Bash
 docker exec -it <container id> /bin/bash
 docker exec -it 5cdf8712973e /bin/bash
 ```
